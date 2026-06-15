@@ -1,0 +1,5 @@
+---
+pid: 69581
+cwd: /Users/joshuafitzgerald
+---
+(base) joshuafitzgerald@Joshuas-MacBook-Air ~ % 

@@ -1,0 +1,5 @@
+---
+pid: 56066
+cwd: /Users/joshuafitzgerald/projects/mobile
+---
+(base) joshuafitzgerald@Joshuas-MacBook-Air mobile % 
